@@ -62,7 +62,7 @@ export default function Footer() {
                 <div className="w-9 h-9 rounded-full bg-slate-800 flex items-center justify-center">
                   <Phone size={16} />
                 </div>
-                <span>+1 (347) 815-1556</span>
+                <span>+1 (929) 769-2349</span>
               </div>
             </div>
           </div>
