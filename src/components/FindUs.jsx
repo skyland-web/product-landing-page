@@ -7,7 +7,7 @@ export default function FindUs() {
     {
       icon: <Phone size={28} />,
       title: "Call Us",
-      content: "+1 (347) 815-1556",
+      content: "+1 (929) 769-2349",
       link: "tel:+13478151556",
       color: "text-purple-600",
       bg: "bg-purple-50",
